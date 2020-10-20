@@ -1,0 +1,160 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body
+{
+	background-image: url(image/photo-1586053147594-84cf1335ede5);
+	background-attachment:fixed;
+	background-position: center;
+	background-size: cover;
+	font-family: sans-serif;
+}
+.head
+{
+	
+	background-color: #0000cd;
+	height: 8vh;
+	outline: solid #ff4500;
+
+
+
+}
+.head h2
+{
+	margin-left: 40px;
+	padding: 10px;
+	text-transform: capitalize;
+	color: #fff;
+}
+.head h2 span
+{
+	color: #ff4500;
+
+}
+.head ul
+{  
+	float: right;
+	color: #fff;
+	display: flex;
+
+
+}
+.head ul li
+{
+	width: 120px;
+	list-style: none;
+	margin-top: -30px;
+	margin-right: 15px;
+
+
+}
+
+.head ul li a
+{
+	text-decoration: none;
+	color: #fff;
+}
+.active,.head ul li :hover
+{
+	text-decoration: none;
+	color: #ff4500;;
+}
+.main
+{
+	color: #fff;
+	text-align: center;
+	margin-top: 100px;
+}
+.main h1
+{
+	font-size: 50px;
+	text-transform: capitalize;
+}
+.footer
+{
+	position: relative;
+	background-color: #fff;
+	height: 50vh;
+	margin-top: 182px;
+
+
+}
+.foter-content
+{
+	background-color:#0000cd;  
+	height: 60px;
+	color: #fff;	 
+}
+.foter-content h3
+{
+	margin: 25px;
+	padding: 15px;
+}
+
+.foter-content input
+{
+	
+	float: right;
+	margin: 25px;
+	margin-right:-15px;
+	height: 22px;
+
+}
+.foter-content button
+{
+	float: right;
+	background-color:#ff4500;
+	margin: 25px;
+	width: 60px;
+	height: 25px;
+	border-color:#ff4500;
+	color: #fff;
+	font-size:10px;
+	cursor: pointer;
+	 
+}
+
+
+
+.om
+{
+	
+	color: #000;
+	display:inline-block;
+	width: 320px;
+	margin-left: 90px;
+	text-align: center;
+	font-size: small;
+}
+
+}
+.om img
+{
+	
+	/*width: 150px;*/
+
+}
+.om h2
+{
+	font-size: bold;
+	text-transform: uppercase;
+
+}
+
+.last
+{
+	background-color: #0000cd;
+	margin-top: 15px;
+	height: 5vh;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
